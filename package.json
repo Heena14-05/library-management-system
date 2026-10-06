@@ -1,0 +1,26 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "THIS IS A LIBRARY MANAGEMENT API BACKEND FOR THE MANAGEMENT OF USERS AND BOOKS\r # routes and end pints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heena14-05/library-management-system.git"
+  },
+  "author": "Heena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heena14-05/library-management-system/issues"
+  },
+  "homepage": "https://github.com/Heena14-05/library-management-system#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
