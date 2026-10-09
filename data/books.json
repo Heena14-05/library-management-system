@@ -6,7 +6,7 @@
             "author":"J.r.r Tolkien",
             "genre":"Fantasy",
             "price":"12.99",
-            "piblisher":"Houghton Mifflin"
+            "publisher":"Houghton Mifflin"
         },
         {
             "id":"2",
@@ -14,7 +14,7 @@
             "author":"J.r.r Tolkien",
             "genre":"Fantasy",
             "price":"12.99",
-            "piblisher":"Houghton Mifflin"
+            "publisher":"Houghton Mifflin"
         },
         {
             "id":"3",
@@ -22,7 +22,7 @@
             "author":"J.r.r Tolkien",
             "genre":"Fantasy",
             "price":"12.99",
-            "piblisher":"Houghton Mifflin"
+            "publisher":"Houghton Mifflin"
         },
         {
             "id":"4",
@@ -30,7 +30,7 @@
             "author":"J.r.r Tolkien",
             "genre":"Fantasy",
             "price":"12.99",
-            "piblisher":"Houghton Mifflin"
+            "publisher":"Houghton Mifflin"
         },
         {
             "id":"5",
@@ -38,7 +38,7 @@
             "author":"J.r.r Tolkien",
             "genre":"Fantasy",
             "price":"12.99",
-            "piblisher":"Houghton Mifflin"
+            "publisher":"Houghton Mifflin"
         }
     ]
 }

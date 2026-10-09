@@ -1,5 +1,5 @@
 {
-    "user":[
+    "users":[
         {
             "id":"1",
             "name":"John",
@@ -40,6 +40,6 @@
             "email":"useer@gmail.com",
             "subscriptionType":"Premium",
             "subscriptionDate":"04/01/2026"
-        },
+        }
     ]
 }
