@@ -1,5 +1,9 @@
 const express = require("express")
 
+// importing routers
+const usersRouter = require("./routes/users");
+const booksRouter = require("./routes/books");
+
 const app = express();
 
 const PORT = 8081;
@@ -12,11 +16,10 @@ app.get("/",(req, res)=>{
     })
 })
 
-// app.all('',(req,res)=>{
-//     res.status(500).json({
-//         message:"not build yet!"
-//     })
-// })
+app.use("/users",usersRouter);
+app.use("/books",booksRouter);
+
+
 
 app.listen(PORT,()=>{
     console.log(`Server is up on http://localhost:${PORT}`);
