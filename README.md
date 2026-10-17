@@ -46,3 +46,11 @@ GET: get all issued book with their fine amount
 >>npm init
 >>npm i express
 >>npm i nodemon --save-dev //only for developer
+
+
+mongodb+srv://<db_username>:<db_password>@cluster0.le2qagq.mongodb.net/?appName=Cluster0
+
+mongodb+srv://<db_username>:gGmi99KlNynnNjrT@cluster0.le2qagq.mongodb.net/?appName=Cluster0
+
+
+# DTO (data transfer object)
